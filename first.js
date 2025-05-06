@@ -7,3 +7,5 @@ const account=444;
 function updateBalance(){
     balance+=20;
 }
+
+console.log("Hello bro");
