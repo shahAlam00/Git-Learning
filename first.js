@@ -17,3 +17,6 @@ console.log("Bug final commit");
 console.log("Latest Change");
 
 console.log("What are you doing");
+
+//I am fixxing some bug
+console.log("Bug Fixed");
